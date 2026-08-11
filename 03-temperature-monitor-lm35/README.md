@@ -2,6 +2,10 @@
 
 Live temperature in °C on a 16×2 character display, read from an analog sensor.
 
+## Demo
+
+https://github.com/user-attachments/assets/45dee3ae-adcc-4d20-b09a-79567cbc7603
+
 ## How it works
 
 The **LM35** is a purely analog sensor: it outputs 10 mV for every degree
