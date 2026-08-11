@@ -2,6 +2,10 @@
 
 Two independent hazards, two distinguishable alarm patterns, one relay output.
 
+## Demo
+
+https://github.com/user-attachments/assets/458c6c69-4e08-4a5d-b9ff-cfa8f857225a
+
 ## How it works
 
 Both sensors are read as plain digital inputs, but they are **active in opposite
