@@ -2,6 +2,10 @@
 
 A four-state traffic light that a pedestrian can interrupt with a button press.
 
+## Demo
+
+https://github.com/user-attachments/assets/90e22006-a04a-4df0-9ff5-0517b9a02494
+
 ## How it works
 
 The sketch runs a **finite state machine** with four states: `GREEN`, `YELLOW`,
