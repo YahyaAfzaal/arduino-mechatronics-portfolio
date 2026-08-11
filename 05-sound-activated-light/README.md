@@ -2,6 +2,10 @@
 
 A clap-triggered alert that can tell a single clap from a double clap.
 
+## Demo
+
+https://github.com/user-attachments/assets/14337612-b486-4102-afb5-2b49814ba2d1
+
 ## How it works
 
 The sound sensor module does the hard part: an on-board potentiometer sets a
