@@ -3,6 +3,10 @@
 A lamp that switches itself on when the room gets dark, in a colour you pick with
 a knob.
 
+## Demo
+
+https://github.com/user-attachments/assets/03e9187c-1816-4165-b0d2-416f4cbd88ab
+
 ## How it works
 
 Two analog inputs drive everything. The **LDR** sits in a voltage divider with a
